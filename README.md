@@ -13,3 +13,7 @@ This project dives into a comprehensive analysis of the 2024 Lok Sabha Elections
 - **🔍 Comprehensive Election Insights:** Python’s scraping and visualization capabilities combined to produce a powerful framework for analyzing India’s electoral landscape, revealing key patterns and outcomes in the 2024 elections.
 
 This project underscores how computational tools enhance our understanding of complex datasets, offering a data-rich perspective into one of the world’s largest democratic processes.
+
+
+- ### Final Dashboard
+  ![Dashboard](visualizations/1.png)
